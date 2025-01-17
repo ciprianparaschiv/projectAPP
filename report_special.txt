@@ -1,0 +1,219 @@
+<table border=1><tr><td colspan='4'>SPECIAL CLIENT REPORT: Web Profits-Waterdrop | Period: 01-07-2024 - 31-07-2024</td></tr><tr >
+								<td>Client</td>
+								<td>Client Harvest</td>
+								<td>TASK</td>
+								<td>HOURS</td>
+								<td>NAME(S)</td>
+								<td>HOURS (old)</td>
+								<td>HOURS (Custom user)</td>
+								<td>HOURS (Custom user) - Harvest</td>
+
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>bundle imagery for waterdrop</td>
+							<td>3.78</td>
+							<td>Ioana Isacovici</td>
+							<td>03:47</td>
+							<td>4.53</td>
+							<td>04:32</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop, 🤸‍♀️Email Campaigns Planning 🛼</td>
+							<td>5.07</td>
+							<td>Ioana Isacovici</td>
+							<td>05:04</td>
+							<td>6.08</td>
+							<td>06:05</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop, 🤸‍♀️Email Campaigns Planning 🛼</td>
+							<td>5.98</td>
+							<td>Stefan Ionita</td>
+							<td>05:59</td>
+							<td>6.88</td>
+							<td>06:53</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>Waterdrop, UGC Mashup Videos: June</td>
+							<td>3.85</td>
+							<td>Radu Poiana</td>
+							<td>03:51</td>
+							<td>4.43</td>
+							<td>04:26</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>Waterdrop AU, Native UGC w/ Headlines</td>
+							<td>1.03</td>
+							<td>Radu Poiana</td>
+							<td>01:02</td>
+							<td>1.18</td>
+							<td>01:11</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>Waterdrop AU, UGC Mashup IMGs</td>
+							<td>1.15</td>
+							<td>Ioana Isacovici</td>
+							<td>01:09</td>
+							<td>1.38</td>
+							<td>01:23</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop Days in July | Email Design and Klaviyo Development</td>
+							<td>12.18</td>
+							<td>Ioana Isacovici,Alexandra Petraru</td>
+							<td>12:11</td>
+							<td>14.63</td>
+							<td>14:38</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>Waterdrop AUS, Women's Health PR IMGs</td>
+							<td>2.00</td>
+							<td>Ioana Isacovici</td>
+							<td>02:00</td>
+							<td>2.42</td>
+							<td>02:25</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>Waterdrop AU, Native UGC w/ Headlines</td>
+							<td>0.47</td>
+							<td>Ioana Isacovici</td>
+							<td>00:28</td>
+							<td>0.57</td>
+							<td>00:34</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>Waterdrop - Prize pack</td>
+							<td>1.90</td>
+							<td>Ioana Isacovici</td>
+							<td>01:54</td>
+							<td>2.28</td>
+							<td>02:17</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop Newsletter Popup Optimisation</td>
+							<td>2.07</td>
+							<td>Ioana Isacovici</td>
+							<td>02:04</td>
+							<td>2.48</td>
+							<td>02:29</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop Days in July | Email Design and Klaviyo Development - Development</td>
+							<td>5.25</td>
+							<td>Stefan Ionita</td>
+							<td>05:15</td>
+							<td>6.05</td>
+							<td>06:03</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>create a waterdrop email signature tool</td>
+							<td>5.02</td>
+							<td>Ioana Isacovici,Radu Manastireanu</td>
+							<td>05:01</td>
+							<td>5.85</td>
+							<td>05:51</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop days imagery</td>
+							<td>7.62</td>
+							<td>Ioana Isacovici</td>
+							<td>07:37</td>
+							<td>9.15</td>
+							<td>09:09</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Vega</td>
+							<td>waterdrop Japan, Native UGC IMGs</td>
+							<td>0.55</td>
+							<td>Ioana Isacovici</td>
+							<td>00:33</td>
+							<td>0.65</td>
+							<td>00:39</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop US, UGC video captions </td>
+							<td>3.87</td>
+							<td>Radu Poiana</td>
+							<td>03:52</td>
+							<td>4.45</td>
+							<td>04:27</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop AU, waterdrop days sale Videos</td>
+							<td>1.30</td>
+							<td>Radu Poiana</td>
+							<td>01:18</td>
+							<td>1.50</td>
+							<td>01:30</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop AUS, Buy 1 Get 1 Free Taster Pack IMG Variations</td>
+							<td>2.92</td>
+							<td>Ioana Isacovici</td>
+							<td>02:55</td>
+							<td>3.50</td>
+							<td>03:30</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop AU, Water Bottle IMGs - July</td>
+							<td>2.50</td>
+							<td>Ioana Isacovici</td>
+							<td>02:30</td>
+							<td>3.00</td>
+							<td>03:00</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>Waterdrop - Email Design Adjustment - Love & Relax</td>
+							<td>0.48</td>
+							<td>Ioana Isacovici</td>
+							<td>00:29</td>
+							<td>0.58</td>
+							<td>00:35</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop AU, Meme style IMGs - July</td>
+							<td>0.47</td>
+							<td>Ioana Isacovici</td>
+							<td>00:28</td>
+							<td>0.57</td>
+							<td>00:34</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Vega</td>
+							<td>waterdrop US, UGC video captions </td>
+							<td>2.45</td>
+							<td>Radu Poiana</td>
+							<td>02:27</td>
+							<td>2.82</td>
+							<td>02:49</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop AU, Reasons Why Carousels </td>
+							<td>2.25</td>
+							<td>Ioana Isacovici</td>
+							<td>02:15</td>
+							<td>2.70</td>
+							<td>02:42</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop AU, Meme style IMGS V2</td>
+							<td>0.67</td>
+							<td>Ioana Isacovici</td>
+							<td>00:40</td>
+							<td>0.80</td>
+							<td>00:48</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>* Clients - Spica</td>
+							<td>waterdrop AU, Water Bottle Ads V2</td>
+							<td>3.30</td>
+							<td>Ioana Isacovici</td>
+							<td>03:18</td>
+							<td>3.95</td>
+							<td>03:57</td>
+							</tr><tr><td>Waterdrop</td>
+							<td>Total Hours</td>
+							<td>78:20</td>
+							<td>0.00</td>
+							<td></td>
+							<td></td>
+							<td>0.00</td>
+							<td>00:00</td>
+							</tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>92.43</td><td>92:27</td></tr></table>

@@ -1,0 +1,8 @@
+RewriteEngine on
+
+RewriteBase /project
+#php_value memory_limit 258M
+RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]
+DirectoryIndex index.php index.html
